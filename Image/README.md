@@ -11,5 +11,5 @@ Below are screenshots showcasing the SQL data cleaning process performed on the 
 - Standardized categorical values
 - Removed unused columns
 
-### Project Screenshots
+
 
